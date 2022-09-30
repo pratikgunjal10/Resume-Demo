@@ -1,0 +1,36 @@
+ * .header {
+     background: #433943;
+     color: whitesmoke;
+     padding: 18px;
+     margin-left: -15px;
+     margin-right: -15px;
+ }
+ 
+ #new {
+     border: 2px solid rgb(20, 14, 14);
+ }
+ 
+ .new {
+     border: 2px solid rgb(20, 14, 14);
+ }
+ 
+ img {
+     border-radius: 50px;
+     height: 100px;
+     width: 100px;
+     margin-top: 10px;
+ }
+ 
+ body {
+     width: 100%;
+     height: 200px;
+     margin: 1%;
+ }
+ 
+ #first {
+     background: burlywood;
+ }
+ 
+ #sec {
+     background: rgb(255, 255, 255);
+ }
